@@ -1,0 +1,7 @@
+*.swp
+.idea/
+.vscode/
+out/
+out-*/
+webrtc/
+/.vscode/
